@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package javaapplication15.agusman_uas;
+
+/**
+ *
+ * @author Ogan
+ */
+public class JavaApplication15Agusman_uas {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Datapribadi");
+         System.out.println("Nim:22100129");
+          System.out.println("Jk:laki laki");
+           System.out.println("Alamat:Medan kota sekitarnya");
+            System.out.println("No/Wa:082365472234");
+             System.out.println("Email:agusman1235@gmail.com");
+    }
+    
+}
